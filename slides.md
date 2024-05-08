@@ -1,26 +1,27 @@
 ---
 theme: seriph
-background: https://pad.fs.lmu.de/uploads/159e734b-da16-4093-9c76-9139e0d6f4e7.png
-favicon: https://pad.fs.lmu.de/uploads/159e734b-da16-4093-9c76-9139e0d6f4e7.png
+background: https://cdn.esahubble.org/archives/images/large/heic1916a.jpg
+favicon: https://cdn.icon-icons.com/icons2/2481/PNG/512/planet_icon_149820.png
 class: text-center
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Deep CNNs for Galaxy Cluster Mass Estimation
-  Presentation of my bachelor's thesis on galaxy cluster mass estimation using deep neural networks
+  ## Identifying Exoplanets with Deep Learning
+  Presentation about a paper from Shallue and Vandenburg (2017) about identifying exoplanets using deep learning
 drawings:
   persist: false
 transition: slide-left
-title: Deep CNNs for Galaxy Cluster Mass Estimation
+title: Identifying Exoplanets with Deep Learning
 mdc: true
 author: Matthias Heim
 download: true
-exportFilename: 'cluster-masses-dl'
+exportFilename: 'exoplanets-deep-learning'
 ---
 
-# Deep CNNs for Galaxy Cluster Mass Estimation
+# Identifying Exoplanets with Deep Learning
 
-Inspecting deep convolutional neural networks (CNNs) for galaxy cluster mass estimation from eFEDS simulation data.
+A short introduction into how deep learning models try to identify exoplanets using convolutional neural networks (CNNs) from transit curves. <div class="mt-10"/>
+<p class="text-gray-100">(Image: ESA/Hubble, M. Kornmesser)</p>
 
 <!-- Supervisors: Dr. Sven Krippendorf, Prof. Jochen Weller -->
 

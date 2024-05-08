@@ -1,5 +1,5 @@
 {
-  "name": "dl-cluster-masses",
+  "name": "exoplanets-deep-learning",
   "private": true,
   "scripts": {
     "build": "slidev build",
@@ -12,6 +12,8 @@
     "@slidev/theme-seriph": "latest"
   },
   "devDependencies": {
+    "@iconify-json/mdi": "^1.1.66",
+    "@iconify-json/uim": "^1.1.9",
     "playwright-chromium": "^1.39.0"
   }
 }
