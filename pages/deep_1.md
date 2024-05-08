@@ -77,6 +77,7 @@ $76 \cdot 10^6$
 <b>Features</b>:
 
 * AI powered parameter and architecture optimization
+* Test Lorem Ipsum
 </li>
 </ul>
 </div>
