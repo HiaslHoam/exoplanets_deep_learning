@@ -48,12 +48,18 @@ hide: false
 
 ---
 transition: none
-src: ./pages/paper_2.md
+src: ./pages/data_1.md
 hide: false
 ---
 
 ---
-src: ./pages/basis_2.md
+transition: none
+src: ./pages/data_2.md
+hide: false
+---
+
+---
+src: ./pages/architecture_1.md
 hide: false
 ---
 

@@ -1,10 +1,10 @@
-# The Paper
+# The Architecture
 
 Shallue and Vandenburg (2017)
 
 <div class="grid grid-cols-1 justify-center justify-items-center self-center">
 
-  <img src="/images/ml_spatial.png" class="shadow-xl max-w-160" />
+  <img src="/images/ml_spatial.png" class="shadow-xl max-w-160 mt-20" />
 </div>
 
 <style>

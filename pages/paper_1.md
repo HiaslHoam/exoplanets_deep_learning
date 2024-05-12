@@ -1,4 +1,4 @@
-# The Paper
+# The Paper (in a Nutshell)
 
 Shallue and Vandenburg (2017)
 
@@ -10,10 +10,11 @@ Shallue and Vandenburg (2017)
 </div>
 <div class="mt-5 list">
 
-* Are deep machine learning models capable of exoplanit transit detection?
-* Are there certain transit features that hinder the detection?
-* Some more interesting things about the paper. Data? Simulation? ETC...
-* How does it perform with real data?
+* Inspecting light curves for 200 000 stars is tedious
+* First discoveries had to be manually checked
+* Neural Networks have proofen to excell at feature detection
+* A Convolutional Neural Network (CNN) architecture has been chosen
+* 98.8% of candidates correctly identified 
 
 </div>
 </div>
