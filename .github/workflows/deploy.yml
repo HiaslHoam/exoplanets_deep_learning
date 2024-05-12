@@ -29,7 +29,7 @@ jobs:
         run: npm install
 
       - name: Build
-        run: npx slidev build --base /slidev_exoplanets_deep_learning/
+        run: npx slidev build --base /exoplanets_deep_learning/
 
       - uses: actions/configure-pages@v3
 
