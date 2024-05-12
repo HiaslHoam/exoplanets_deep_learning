@@ -21,9 +21,7 @@ exportFilename: 'exoplanets-deep-learning'
 # Identifying Exoplanets with Deep Learning
 
 A short introduction into how deep learning models try to identify exoplanets using convolutional neural networks (CNNs) from transit curves. <div class="mt-10"/>
-<p class="text-gray-100">(Image: ESA/Hubble, M. Kornmesser)</p>
-
-<!-- Supervisors: Dr. Sven Krippendorf, Prof. Jochen Weller -->
+(Image: ESA/Hubble, M. Kornmesser)
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -44,7 +42,13 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 transition: none
-src: ./pages/basis_1.md
+src: ./pages/paper_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/paper_2.md
 hide: false
 ---
 
