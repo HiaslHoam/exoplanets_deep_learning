@@ -18,7 +18,7 @@ Shallue and Vandenburg (2017)
 <div class="list ml-5">
 <p class="">
 
-* Synthetic transit curve input with two views: ***global*** and ***local***
+* Synthetic transit curves with two views: ***global*** and ***local***
 
 </p>
 
@@ -53,4 +53,4 @@ Shallue and Vandenburg (2017)
 }
 </style>
 
-<img class="min-w-30 position-absolute top-78 left-48 rotate-320 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />
+<img class="min-w-30 position-absolute top-74 left-48 rotate-320 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />

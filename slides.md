@@ -245,7 +245,7 @@ hide: false
 
 ---
 layout: image-right
-image: https://pad.fs.lmu.de/uploads/cb7bf07f-08b2-4326-8a47-d83e086a108e.png
+image: https://cdn.esahubble.org/archives/images/large/heic1916a.jpg
 src: ./pages/more.md
 hide: false
 ---

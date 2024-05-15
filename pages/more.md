@@ -22,10 +22,10 @@
 
 ![](https://www.svgrepo.com/show/526525/document-text.svg)
 </div>
-<div class="font-italic ml-.4">My Bachelor's Thesis:</div>
+<div class="font-italic ml-.4">Have a look at the paper:</div>
 </div>
 <div class="-mt-5">
-<a href="https://github.com/HiaslHoam/bachelors_thesis" target="_blank" class="text-sm font-italic">https://github.com/HiaslHoam/bachelors_thesis</a>
+<a href="https://arxiv.org/pdf/1712.05044" target="_blank" class="text-sm font-italic">https://arxiv.org/pdf/1712.05044</a>
 </div>
 <div class="flex flex-row gap-1 items-center mt-3">
 <div class="max-w-7">
@@ -35,6 +35,6 @@
 <div class="font-italic ml-.4">This Presentation:</div>
 </div>
 <div class="-mt-5">
-<a href="https://github.com/HiaslHoam/slidev_cluster_masses_dl" target="_blank" class="text-sm font-italic">https://github.com/HiaslHoam/slidev_cluster_masses_dl</a>
+<a href="https://github.com/HiaslHoam/exoplanets_deep_learning" target="_blank" class="text-sm font-italic">https://github.com/HiaslHoam/exoplanets_deep_learning</a>
 </div>
 </div>
