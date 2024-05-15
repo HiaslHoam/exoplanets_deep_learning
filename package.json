@@ -9,7 +9,9 @@
   "dependencies": {
     "@slidev/cli": "^0.43.7",
     "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest"
+    "@slidev/theme-seriph": "latest",
+    "plotly.js-dist": "^2.32.0",
+    "vue3-plotly": "^0.0.7"
   },
   "devDependencies": {
     "@iconify-json/mdi": "^1.1.66",
