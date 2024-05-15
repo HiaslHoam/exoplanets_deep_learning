@@ -11,7 +11,7 @@ Shallue and Vandenburg (2017)
   <img src="/images/transit_curve_2.png" class="w-125 shadow-xl" />
   </div>
   <div>
-  <img src="/images/transit_curve_3.png" class="w-125 shadow-xl not-active" />
+  <img src="/images/transit_curve_3.png" class="w-125 shadow-xl" />
   </div>
 </div>
 
@@ -34,7 +34,7 @@ Shallue and Vandenburg (2017)
 
 </p>
 
-<p class="not-active">
+<p class="">
 
 * Global used for detection of multiple transits
 
@@ -53,4 +53,6 @@ Shallue and Vandenburg (2017)
 }
 </style>
 
-<img class="min-w-30 position-absolute top-78 left-48 rotate-320 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />
+<img class="min-w-30 position-absolute top-105 left-22 rotate-20 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />
+
+<img class="min-w-30 position-absolute top-99 left-49 rotate-20 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />

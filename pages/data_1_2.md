@@ -28,7 +28,7 @@ Shallue and Vandenburg (2017)
 
 </p>
 
-<p class="">
+<p class="not-active">
 
 * Long period transits are not distinct in global view
 
@@ -49,8 +49,6 @@ Shallue and Vandenburg (2017)
     margin-bottom: 1.8rem !important;
   }
   .not-active {
-    opacity: 15%;
+    opacity: 20%;
 }
 </style>
-
-<img class="min-w-30 position-absolute top-78 left-48 rotate-320 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />

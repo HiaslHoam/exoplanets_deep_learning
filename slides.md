@@ -41,7 +41,6 @@ The last comment block of each slide will be treated as slide notes. It will be 
 -->
 
 ---
-transition: none
 src: ./pages/paper_1.md
 hide: false
 ---
@@ -54,7 +53,29 @@ hide: false
 
 ---
 transition: none
+src: ./pages/data_1_2.md
+hide: false
+---
+
+---
+transition: none
 src: ./pages/data_2.md
+hide: false
+---
+
+---
+src: ./pages/data_3.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/data_4.md
+hide: false
+---
+
+---
+src: ./pages/data_5.md
 hide: false
 ---
 
