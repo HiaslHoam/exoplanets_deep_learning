@@ -80,7 +80,25 @@ hide: false
 ---
 
 ---
+transition: none
 src: ./pages/architecture_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/architecture_2.md
+hide: false
+---
+
+---
+src: ./pages/architecture_3.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/architecture_4.md
 hide: false
 ---
 
