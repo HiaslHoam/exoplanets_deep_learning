@@ -103,6 +103,12 @@ hide: false
 ---
 
 ---
+transition: none
+src: ./pages/architecture_5.md
+hide: false
+---
+
+---
 src: ./pages/cnns.md
 hide: false
 ---

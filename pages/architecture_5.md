@@ -6,6 +6,14 @@
 
 </div>
 
+<div class="grid grid-cols-1 justify-center justify-items-center self-center mt-10 font-italic">
+
+# But what exactly is a convolution?
+
+</div>
+
+
+
 
 
 
