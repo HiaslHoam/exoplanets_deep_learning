@@ -1,0 +1,62 @@
+# What is a Convolution?
+
+Pooling
+
+<div class="grid grid-cols-5 justify-center justify-items-center items-start mt-10">
+<div class="col-span-3 self-center ml-50">
+
+
+<Transform :scale="0.66">
+$$
+\begin{gather*}
+\begin{bmatrix}
+\color{green} 50 & \color{blue} 100\\
+\color{red} 166 & \color{orange} 24 
+\end{bmatrix}
+\overset{\text{avg pooling}}{\longleftarrow}
+\begin{bmatrix}
+\color{green} 163 & \color{green} 17 & \color{blue} 179 & \color{blue} 123\\
+\color{green} 0 & \color{green} 21 & \color{blue} 89 & \color{blue} 10 \\
+\color{red} 173 & \color{red} 196 & \color{orange} 9 & \color{orange} 15 \\
+\color{red} 175 & \color{red} 118 & \color{orange} 62 & \color{orange} 12
+\end{bmatrix}
+\overset{\text{max pooling}}{\longrightarrow}
+\begin{bmatrix}
+\color{green} 163 & \color{blue} 179\\
+\color{red} 196 & \color{orange} 62 
+\end{bmatrix}
+\end{gather*}
+$$
+</Transform>
+
+
+
+
+</div>
+<div class="col-span-2 self-center">
+
+
+<ul class="list">
+<li>
+Reduces the dimensionality of the feature map
+</li>
+<li>
+Helps to keep computational effort low
+</li>
+<li>
+Causes translation invariance for features in the image
+</li>
+<li>
+Keeps focus on most important features
+</li>
+</ul>
+
+</div>
+</div>
+
+<style>
+
+  .list li{
+    margin-bottom: 1.8rem !important;
+  }
+</style>

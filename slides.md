@@ -109,7 +109,44 @@ hide: false
 ---
 
 ---
-src: ./pages/cnns.md
+transition: none
+src: ./pages/cnns_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cnns_2.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cnns_3.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cnns_4.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cnns_5.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cnns_6.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cnns_7.md
 hide: false
 ---
 

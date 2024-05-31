@@ -1,0 +1,39 @@
+# What is a Convolution?
+
+Pooling
+
+<div class="grid grid-cols-2 justify-center justify-items-center items-start">
+<div class="col-span-2 self-center mt-20">
+
+$$
+\begin{gather*}
+\begin{bmatrix}
+\color{green} 50 & \color{blue} 100\\
+\color{red} 166 & \color{orange} 24 
+\end{bmatrix}
+\overset{\text{avg pooling}}{\longleftarrow}
+\begin{bmatrix}
+\color{green} 163 & \color{green} 17 & \color{blue} 179 & \color{blue} 123\\
+\color{green} 0 & \color{green} 21 & \color{blue} 89 & \color{blue} 10 \\
+\color{red} 173 & \color{red} 196 & \color{orange} 9 & \color{orange} 15 \\
+\color{red} 175 & \color{red} 118 & \color{orange} 62 & \color{orange} 12
+\end{bmatrix}
+\overset{\text{max pooling}}{\longrightarrow}
+\begin{bmatrix}
+\color{green} 163 & \color{blue} 179\\
+\color{red} 196 & \color{orange} 62 
+\end{bmatrix}
+\end{gather*}
+$$
+
+
+
+</div>
+</div>
+
+<style>
+
+  .list li{
+    margin-bottom: 1.8rem !important;
+  }
+</style>
