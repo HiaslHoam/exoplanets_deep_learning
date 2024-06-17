@@ -1,4 +1,4 @@
-# What is a Convolution?
+# Convolutional Neural Networks
 
 Pooling
 

@@ -17,6 +17,10 @@
 
 </div>
 </div>
+<div class="text-gray-500 opacity-80 ml-165 mt-5">
+<mdi-copyright class="text-sm"/> Goodfellow et al. (2016)
+</div>
+
 
 <style>
 

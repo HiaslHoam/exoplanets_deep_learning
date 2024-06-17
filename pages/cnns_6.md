@@ -1,4 +1,4 @@
-# What is a Convolution?
+# Convolutional Neural Networks
 
 Pooling
 
@@ -41,7 +41,7 @@ $$
   .list li{
     margin-bottom: 1.8rem !important;
   }
-      .not-active {
+  .not-active {
     opacity: 20%;
 }
 </style>
