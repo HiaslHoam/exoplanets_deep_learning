@@ -2,7 +2,7 @@
 
 <div class="grid grid-cols-1 justify-center justify-items-center self-center mt-50 font-italic">
 
-# Let's build a Neural Network with Convolutions!
+# How is this applied in the paper?
 
 </div>
 

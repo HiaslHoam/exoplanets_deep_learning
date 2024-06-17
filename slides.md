@@ -169,7 +169,13 @@ hide: false
 
 ---
 transition: none
-src: ./pages/architecture_6.md
+src: ./pages/cnns_10.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/architecture_7.md
 hide: false
 ---
 
