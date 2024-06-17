@@ -2,6 +2,11 @@
 
 Pooling
 
+<div class="grid grid-cols-5 justify-center justify-items-center items-start mt-10">
+<div class="col-span-3 self-center ml-50">
+
+
+<Transform :scale="0.66">
 <div class="grid grid-rows-2 justify-center justify-items-center items-start">
 <div class="row-span-1 self-center">
 
@@ -27,12 +32,41 @@ $$
 $$
 
 </div>
+
+<Transform :scale="0.96">
 <div class="row-span-1 self-center">
-<div class="grid grid-cols-3 grid-flow-col gap-25">
-<div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl" src="/images/avg_pooling.png"/></div>
-<div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl" src="/images/2DConvolved.jpg"/></div>
-<div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl" src="/images/max_pooling.png"/></div>
+  <div class="grid grid-cols-3 grid-flow-col gap-25">
+    <div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl max-w-200" src="/images/avg_pooling.png"/></div>
+    <div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl max-w-200" src="/images/2DConvolved.jpg"/></div>
+    <div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl max-w-200" src="/images/max_pooling.png"/></div>
 </div>
+</div>
+</Transform>
+</div>
+</Transform>
+
+
+
+
+</div>
+<div class="col-span-2 self-center">
+
+
+<ul class="list">
+<li>
+Reduces the dimensionality of the feature map
+</li>
+<li>
+Helps to keep computational effort low
+</li>
+<li>
+Causes translation invariance for features in the image
+</li>
+<li>
+Keeps focus on most important features
+</li>
+</ul>
+
 </div>
 </div>
 

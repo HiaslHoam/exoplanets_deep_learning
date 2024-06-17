@@ -151,6 +151,11 @@ hide: false
 ---
 
 ---
+src: ./pages/cnns_8.md
+hide: false
+---
+
+---
 src: ./pages/goals.md
 hide: false
 ---

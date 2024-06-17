@@ -2,8 +2,8 @@
 
 Pooling
 
-<div class="grid grid-cols-2 justify-center justify-items-center items-start">
-<div class="col-span-2 self-center mt-20">
+<div class="grid grid-rows-2 justify-center justify-items-center items-start">
+<div class="row-span-1 self-center">
 
 $$
 \begin{gather*}
@@ -26,8 +26,13 @@ $$
 \end{gather*}
 $$
 
-
-
+</div>
+<div class="row-span-1 self-center not-active">
+<div class="grid grid-cols-3 grid-flow-col gap-25">
+<div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl" src="/images/avg_pooling.png"/></div>
+<div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl" src="/images/2DConvolved.jpg"/></div>
+<div class="col-span-1"><img class="max-h-90 min-h-40 shadow-xl" src="/images/max_pooling.png"/></div>
+</div>
 </div>
 </div>
 
@@ -36,4 +41,7 @@ $$
   .list li{
     margin-bottom: 1.8rem !important;
   }
+      .not-active {
+    opacity: 20%;
+}
 </style>
