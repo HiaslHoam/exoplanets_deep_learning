@@ -175,12 +175,17 @@ hide: false
 
 ---
 transition: none
-src: ./pages/architecture_7.md
+src: ./pages/cnns_11.md
 hide: false
 ---
 
 ---
-src: ./pages/goals.md
+src: ./pages/cnns_12.md
+hide: false
+---
+
+---
+src: ./pages/architecture_8.md
 hide: false
 ---
 
