@@ -5,9 +5,11 @@ favicon: https://cdn.icon-icons.com/icons2/2481/PNG/512/planet_icon_149820.png
 class: text-center
 highlighter: shiki
 lineNumbers: false
-info: |
+info: >
   ## Identifying Exoplanets with Deep Learning
-  Presentation about a paper from Shallue and Vandenburg (2017) about identifying exoplanets using deep learning
+
+  Presentation about a paper from Shallue and Vandenburg (2017) about
+  identifying exoplanets using deep learning
 drawings:
   persist: false
 transition: slide-left
@@ -15,7 +17,7 @@ title: Identifying Exoplanets with Deep Learning
 mdc: true
 author: Matthias Heim
 download: true
-exportFilename: 'exoplanets-deep-learning'
+exportFilename: exoplanets-deep-learning
 ---
 
 # Identifying Exoplanets with Deep Learning
@@ -190,151 +192,12 @@ hide: false
 ---
 
 ---
-transition: none
-src: ./pages/deep_1.md
-hide: false
----
----
-transition: none
-src: ./pages/deep_2.md
-hide: false
----
----
-transition: none
-src: ./pages/deep_3.md
-hide: false
----
----
-src: ./pages/deep_4.md
+src: ./pages/training_params.md
 hide: false
 ---
 
 ---
-src: ./pages/pipeline.md
-hide: false
----
-
-
----
-transition: none
-src: ./pages/results_cnn_1.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_cnn_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_cnn_overf.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_cnn_3.md
-hide: false
----
-
----
-src: ./pages/results_cnn_4.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_vgg.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_vgg_2.md
-hide: false
----
-
----
-src: ./pages/results_vgg_sum.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_resnet_50v2.md
-hide: false
----
-
----
-src: ./pages/results_resnet_50v2_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_resnet_152v2.md
-hide: false
----
-
----
-src: ./pages/results_resnet_152v2_2.md
-hide: false
----
-
----
-src: ./pages/results_resnet_sum.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_efficient.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_efficient_2.md
-hide: false
----
-
----
-src: ./pages/results_efficient_sum.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_history.md
-hide: false
----
-
----
-src: ./pages/results_history_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages/results_table.md
-hide: false
----
-
----
-src: ./pages/results_table_2.md
-hide: false
----
-
----
-transition: none
-src: ./pages/conclusion_1.md
-hide: false
----
-
----
-src: ./pages/conclusion_2.md
+src: ./pages/loss.md
 hide: false
 ---
 

@@ -1,3 +1,7 @@
+---
+title: How was this done before?
+---
+
 # How was this done before?
 
 Coughlin et al. (2016)
@@ -25,3 +29,7 @@ Coughlin et al. (2016)
     opacity: 20%;
 }
 </style>
+
+<!--
+- Ephemeris Matching: Detecting FPs by comparing the signal to other measured signals
+-->

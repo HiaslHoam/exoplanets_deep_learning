@@ -1,3 +1,7 @@
+---
+title: The Data
+---
+
 # The Data
 
 Shallue and Vandenburg (2017)
@@ -56,3 +60,8 @@ Shallue and Vandenburg (2017)
 <img class="min-w-30 position-absolute top-100 left-22 rotate-20 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />
 
 <img class="min-w-30 position-absolute top-95 left-49 rotate-20 opacity-70" src="https://upload.wikimedia.org/wikipedia/commons/5/57/Short_left_arrow_-_red.svg" />
+
+<!--
+Global View: 1 Orbital Period
+Local View: 4 Transit Durations
+-->
