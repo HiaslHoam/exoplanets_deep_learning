@@ -140,8 +140,13 @@ hide: false
 ---
 
 ---
-transition: none
 src: ./pages/architecture_6.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/cnns_9.md
 hide: false
 ---
 
@@ -160,12 +165,6 @@ hide: false
 ---
 transition: none
 src: ./pages/cnns_8.md
-hide: false
----
-
----
-transition: none
-src: ./pages/cnns_9.md
 hide: false
 ---
 

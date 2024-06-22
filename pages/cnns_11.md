@@ -27,7 +27,11 @@ $g = \begin{bmatrix}
 </div>
 </Transform>
 
-<Transform scale="0.33" class="col-span-1 ml-80 mt-8 bg-blue-200 p-8 shadow-xl">
+<div class="col-span-1 -ml-55 mt-8 p-3 shadow-xl">
+<img class="max-w-26" src="/images/sigmoid.png" />
+</div>
+
+<Transform scale="0.33" class="col-span-1 ml-100 mt-8 bg-blue-200 p-8 shadow-xl">
 <div class="grid grid-rows-2 justify-center justify-items-center items-start">
 <div class="row-span-1 self-center">
 
@@ -65,9 +69,7 @@ $$
 </Transform>
 
 
-<div class="col-span-1 ml-10 min-w-40 mt-3 p-5 shadow-xl">
-<img src="/images/sigmoid.png" />
-</div>
+
 
 <div class="col-span-1 ml-44 min-w-50 mt-9.7 p-1 shadow-xl">
 <img src="/images/nn.png" />
@@ -76,7 +78,7 @@ $$
 
 
 <mdi-plus-circle-outline class="position-absolute left-52 top-68"/>
-<mdi-plus-circle-outline class="position-absolute left-117 top-68"/>
+<mdi-plus-circle-outline class="position-absolute left-97 top-68"/>
 <mdi-plus-circle-outline class="position-absolute left-166.5 top-68"/>
 <mdi-plus-circle-outline class="position-absolute left-52 top-68"/>
 </div>
