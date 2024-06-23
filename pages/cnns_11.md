@@ -27,8 +27,8 @@ $g = \begin{bmatrix}
 </div>
 </Transform>
 
-<div class="col-span-1 -ml-55 mt-8 p-3 shadow-xl">
-<img class="max-w-26" src="/images/sigmoid.png" />
+<div class="col-span-1 -ml-55 mt-2 p-3 shadow-xl">
+<img class="max-w-26" src="/images/relu.png" />
 </div>
 
 <Transform scale="0.33" class="col-span-1 ml-100 mt-8 bg-blue-200 p-8 shadow-xl">

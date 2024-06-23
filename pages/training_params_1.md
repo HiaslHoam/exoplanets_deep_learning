@@ -8,26 +8,36 @@ Training Parameters for the best model
 
 |    **Parameter**   | Batch Size | Epochs | Optimizer | Learning Rate $\alpha$ | Decay Rates $\beta_{1,2}$ | $\epsilon$ | Dropout | Loss Function |
 |-------|------------|--------|-----------|------------------------|---------------------|------------------|--|----|
-| **Value** | 64         | 50     | Adam      | $10^{-5}$                  | 0.9 , 0.999                 | $10^{-8}$| No | Cross Entropy |
+| **Value** | 64         | 50     | Adam      | $10^{-5}$                  | 0.9 , 0.999                 | $10^{-8}$| Only on FC layers | Cross Entropy |
 
   </div>
   </Transform>
+  <Transform scale="0.9" class="list col-span-2">
+  <div>
 
-  <div class="list col-span-2">
+  * Google Vizier used for parameter optimization
+
+  <p class="not-active">
+
 
   * Small batch size allows a more efficient computation
   * Few epochs of training can avoid overfitting
   * Adam is a common optimizer, allowing a more efficient training
   * Surprising to me to see such a small learning rate with just 50 epochs
+
+  </p>
   
   </div>
-
+  </Transform>
 </div>
 
 
 <style>
 
   .list li{
-    margin-bottom: 1.8rem !important;
+    margin-bottom: 1rem !important;
+  }
+  .not-active {
+    opacity: 20%;
   }
 </style>

@@ -191,12 +191,42 @@ hide: false
 ---
 
 ---
-src: ./pages/training_params.md
+transition: none
+src: ./pages/training_params_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/training_params_2.md
+hide: false
+---
+
+---
+src: ./pages/training_params_3.md
 hide: false
 ---
 
 ---
 src: ./pages/loss.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/results_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/results_2.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/results_3.md
 hide: false
 ---
 
