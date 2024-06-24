@@ -231,6 +231,24 @@ hide: false
 ---
 
 ---
+transition: none
+src: ./pages/results_4.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/results_5.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/results_6.md
+hide: false
+---
+
+---
 layout: image-right
 image: https://cdn.esahubble.org/archives/images/large/heic1916a.jpg
 src: ./pages/more.md
