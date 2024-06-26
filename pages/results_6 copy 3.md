@@ -8,6 +8,7 @@ Performance on Simulated Data
 <img src="/images/sim_table.png" class="max-w-100 col-span-1"/>
 </div>
 </div>
+<div class="bg-yellow-300/55 absolute min-w-47 min-h-4 top-69 left-174"></div>
 
 <style>
 .not-active {

@@ -66,7 +66,13 @@ hide: false
 ---
 
 ---
+transition: none
 src: ./pages/data_3.md
+hide: false
+---
+
+---
+src: ./pages/data_3_2.md
 hide: false
 ---
 
@@ -77,7 +83,13 @@ hide: false
 ---
 
 ---
+transition: none
 src: ./pages/data_5.md
+hide: false
+---
+
+---
+src: ./pages/paper_autov.md
 hide: false
 ---
 
@@ -220,6 +232,12 @@ hide: false
 
 ---
 transition: none
+src: ./pages/results_1_1.md
+hide: false
+---
+
+---
+transition: none
 src: ./pages/results_2.md
 hide: false
 ---
@@ -245,6 +263,12 @@ hide: false
 ---
 transition: none
 src: ./pages/results_6.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/results_6_1.md
 hide: false
 ---
 

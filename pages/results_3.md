@@ -1,12 +1,16 @@
+---
+title: Training Results
+---
+
 # Training Results
 
 Performance Metrics
 
 <div class="grid grid-cols-2 justify-items-center">
-<div class="cols-span-1">
+<div class="col-span-1">
 <img src="/images/pre_rec.png" class="p-4 shadow-xl max-w-90"/>
 </div>
-<div class="cols-span-1 grid grid-rows-2 items-center">
+<div class="col-span-1 grid grid-rows-2 items-center">
 <div class="rows-span-1 grid grid-rows-2 max-h-70">
 <div>
 <img src="/images/acc.png" class=" max-w-100"/>
@@ -32,3 +36,7 @@ Performance Metrics
   opacity: 20%;
 }
 </style>
+
+<!--
+**NEXT**: Accuracy metrics are only one way to assess a models predictions. Other way: perform tests to evaluate the strengths and weaknesses are very important.
+-->

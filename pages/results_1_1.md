@@ -1,3 +1,7 @@
+---
+title: Training Results
+---
+
 # Training Results
 
 Performance Metrics
@@ -10,8 +14,7 @@ Performance Metrics
 
 * They first compare the deep model to other models made by the authors: ***linear*** and ***fully connected***
 
-
-<div class="not-active">
+<div>
 
 * **Precision**: is the fraction of classified planets that are actually planets
 
@@ -19,7 +22,6 @@ Performance Metrics
 
 * **Recall**: is the fraction of true planets that are actually classified as such (also called True Positive Rate)
     * Recall $= \frac{TP}{TP+FN}$
-
 
 </div>
 </div>
@@ -30,3 +32,10 @@ Performance Metrics
   opacity: 20%;
 }
 </style>
+
+<!--
+Precision: What percentage of **positive** cases is correct?
+Recall: What percentage of the **relevant** cases is correct?
+
+**Relevant** here means the planets we want to find while **positive** is just all the positively classified planets
+-->

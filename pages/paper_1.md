@@ -12,7 +12,7 @@ Shallue and Vandenburg (2017)
 
 * Inspecting light curves for 200 000 stars is tedious
 * First discoveries had to be manually checked
-* Neural Networks have proofen to excell at feature detection
+* Neural Networks have proven to excell at feature detection
 * A Convolutional Neural Network (CNN) architecture has been chosen
 * 98.8% of candidates correctly identified 
 

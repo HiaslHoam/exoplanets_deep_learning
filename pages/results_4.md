@@ -3,8 +3,8 @@
 Performance Visualization
 
 <div class="grid grid-cols-2 justify-items-center items-center">
-<img src="/images/model_vision_1.png" class="max-w-70 cols-span-1 shadow-xl p-2"/>
-<div class="cols-span-1">
+<img src="/images/model_vision_1.png" class="max-w-70 col-span-1 shadow-xl p-2"/>
+<div class="col-span-1">
 
 * One can test the model's focus by occluding parts of the curve
 * If we occlude the transit, the model is not able to predict that there is a planet

@@ -1,3 +1,7 @@
+---
+title: Training
+---
+
 # Training
 
 Training Parameters for the best model
@@ -34,3 +38,19 @@ Training Parameters for the best model
     opacity: 20%;
   }
 </style>
+
+<!--
+Adamis a combination of GD with momentum and RMSP optimizations
+
+
+Adam:
+
+Combination of Momentum Descend and RMSpropagation with decay rates for both
+
+w_t+1 = w_t - \alpha*D(L)/D(w_t)
+
+m_t+1 = \beta_1 * m_t + (1-\beta_1)*(DEL)
+v_t+1 = \beta_2 * v_t + (1-\beta_2)*(DEL)**2
+
+=> w_t+1 = w_t - \alpha*m_t*(1/sqrt(v_t)+eps)
+-->

@@ -3,8 +3,8 @@
 Performance Visualization
 
 <div class="grid grid-cols-2 justify-items-center items-center">
-<img src="/images/model_vision_2.png" class="max-w-70 cols-span-1 shadow-xl p-2"/>
-<div class="cols-span-1">
+<img src="/images/model_vision_2.png" class="max-w-70 col-span-1 shadow-xl p-2"/>
+<div class="col-span-1">
 
 * Now we look at binary eclipsing stars that can look like transiting planets
 * They usually have secondary eclipses
