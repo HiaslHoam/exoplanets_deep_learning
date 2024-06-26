@@ -309,10 +309,27 @@ hide: false
 ---
 
 ---
-transition: none
 src: ./pages/one_more_3.md
 hide: false
 ---
+
+---
+transition: none
+src: ./pages/final.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/final_1.md
+hide: false
+---
+
+---
+src: ./pages/final_2.md
+hide: false
+---
+
 
 ---
 layout: image-right
