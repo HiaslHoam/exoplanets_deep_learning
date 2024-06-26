@@ -1,3 +1,7 @@
+---
+title: Training Results
+---
+
 # Training Results
 
 Performance Visualization
@@ -23,3 +27,7 @@ li {
   margin-bottom: 1.8rem;
 }
 </style>
+
+<!--
+*NEXT*: Inspect unseen simulated data to evaluate performance.
+-->

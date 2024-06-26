@@ -14,16 +14,31 @@ Coughlin et al. (2016)
 
 * Decision tree to classify planet candidates (PCs)
 * Similar to manual selection
+
+<div class="">
+
 * Many steps necessary to classify a PC
+
+</div>
+
+<div class="">
+
 * Multiple different trees for different problems
 
+</div>
+
+<div class="">
+
+* Only classifying but not ranking the PCs
+
+</div>
 </div>
 </div>
 
 <style>
 
   .list li{
-    margin-bottom: 1.8rem !important;
+    margin-bottom: 1rem !important;
   }
   .not-active {
     opacity: 20%;

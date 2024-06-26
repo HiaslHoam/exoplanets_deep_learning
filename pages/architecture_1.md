@@ -1,6 +1,6 @@
 # The Architecture
 
-Shallue and Vandenburg (2017)
+Shallue and Vanderburg (2017)
 
 <div class="grid grid-cols-1 justify-center justify-items-center self-center">
 

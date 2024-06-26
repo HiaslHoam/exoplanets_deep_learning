@@ -1,3 +1,7 @@
+---
+title: Convolutional Neural Networks
+---
+
 # Convolutional Neural Networks
 
 Pooling
@@ -42,3 +46,7 @@ $$
     margin-bottom: 1.8rem !important;
   }
 </style>
+
+<!--
+WAIT WITH EXPLANATION FOR NEXT SLIDE
+-->

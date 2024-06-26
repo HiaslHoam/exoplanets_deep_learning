@@ -1,3 +1,7 @@
+---
+title: The Architecture
+---
+
 # The Architecture
 
 Shallue and Vanderburg (2017)
@@ -14,7 +18,7 @@ Shallue and Vanderburg (2017)
 * Global view uses five sets of convolutions while local view uses two sets
 
 </div>
-<div class="not-active">
+<div class="">
 
 * ConvX-Y denotes convolutional layers with a kernel size of X and Y filters
 * MaxpoolX-Y denots max pooling layers with a range of X and a stride of Y
@@ -31,3 +35,9 @@ Shallue and Vanderburg (2017)
     margin-bottom: 1.8rem !important;
   }
 </style>
+
+<!--
+* No information on the activation function after convolution layer
+* Activation function between FC-layers is ReLu
+* Final one is sigmoid/logistic for prob. in binary
+-->

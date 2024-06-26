@@ -8,7 +8,7 @@ lineNumbers: false
 info: >
   ## Identifying Exoplanets with Deep Learning
 
-  Presentation about a paper from Shallue and Vandenburg (2017) about
+  Presentation about a paper from Shallue and Vanderburg (2017) about
   identifying exoplanets using deep learning
 drawings:
   persist: false
@@ -198,7 +198,13 @@ hide: false
 ---
 
 ---
+transition: none
 src: ./pages/architecture_8.md
+hide: false
+---
+
+---
+src: ./pages/architecture_9.md
 hide: false
 ---
 
@@ -269,6 +275,42 @@ hide: false
 ---
 transition: none
 src: ./pages/results_6_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/results_6_2.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/paper_results.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/one_more.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/one_more_1.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/one_more_2.md
+hide: false
+---
+
+---
+transition: none
+src: ./pages/one_more_3.md
 hide: false
 ---
 

@@ -1,3 +1,7 @@
+---
+title: Convolutional Neural Networks
+---
+
 # Convolutional Neural Networks
 
 Putting it all together
@@ -92,3 +96,7 @@ $$
     margin-bottom: 1.8rem !important;
   }
 </style>
+
+<!--
+Building blocks out of the first three layers and repeat them
+-->

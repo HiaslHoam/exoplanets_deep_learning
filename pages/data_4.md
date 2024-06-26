@@ -16,17 +16,23 @@ Coughlin et al. (2016)
 * Decision tree to classify planet candidates (PCs)
 * Similar to manual selection
 
-<p class="not-active">
+<div class="not-active">
 
 * Many steps necessary to classify a PC
 
-</p>
+</div>
 
-<p class="not-active">
+<div class="not-active">
 
 * Multiple different trees for different problems
 
-</p>
+</div>
+
+<div class="not-active">
+
+* Only classifying but not ranking the PCs
+
+</div>
 
 
 
@@ -36,7 +42,7 @@ Coughlin et al. (2016)
 <style>
 
   .list li{
-    margin-bottom: 1.8rem !important;
+    margin-bottom: 1rem !important;
   }
   .not-active {
     opacity: 20%;

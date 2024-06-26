@@ -4,7 +4,7 @@ title: The Dataset
 
 # The Dataset
 
-Shallue and Vandenburg (2017)
+Shallue and Vanderburg (2017)
 
 <div class="grid grid-cols-5 justify-center justify-items-center items-start mt-8">
 <div class="col-span-2 self-center">

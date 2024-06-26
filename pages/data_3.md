@@ -4,7 +4,7 @@ title: The Data
 
 # The Data
 
-Shallue and Vandenburg (2017)
+Shallue and Vanderburg (2017)
 
 <div class="grid grid-cols-3 justify-center justify-items-center items-start -mt-5">
 <div class="col-span-2 self-center">

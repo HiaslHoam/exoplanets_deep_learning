@@ -7,22 +7,16 @@ Performance on Simulated Data
 <div class="col-span-1">
 <img src="/images/sim_table.png" class="max-w-100 col-span-1"/>
 
-<div class="">
-
-<div class="">
+<div>
 
 * Higher value is better for *Injection 1*
-</div>
-<div class="not-active">
-
 * Lower is better for the rest
 * Robovetter is quite significantly better at spotting false positives
 * Due to difference in provided information for classification
 </div>
 </div>
 </div>
-</div>
-<div class="bg-yellow-300/55 absolute min-w-47 min-h-4 top-54 left-174"></div>
+<div class="bg-yellow-300/55 absolute min-w-47 min-h-13 top-57.8 left-174"></div>
 
 <style>
 .not-active {

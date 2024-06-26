@@ -2,9 +2,9 @@
 title: The Paper (in a Nutshell)
 ---
 
-# The Paper (in a Nutshell)
+# Training Results
 
-Shallue and Vanderburg (2017)
+Some Caveats
 
 <div class="grid grid-cols-2 justify-center justify-items-center items-start">
 <div>  
@@ -14,11 +14,10 @@ Shallue and Vanderburg (2017)
 </div>
 <div class="mt-5 list">
 
-* Inspecting light curves for 200 000 stars is tedious
-* First discoveries had to be manually checked
-* Neural Networks have proven to excell at feature detection
-* A Convolutional Neural Network (CNN) architecture has been chosen
-* 96% of candidates correctly identified 
+* The high overall accuracy should not fool one to blindly trust the model
+* Compared to Robovetter, the model has problems with identifying false mock signals
+* Because of that, there is still a need for manual supervision
+* Dispite this being very accurate while only used on limited data only, the Autovetter actually is already able to do all of this quite well
 
 </div>
 </div>
